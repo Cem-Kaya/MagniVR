@@ -1,40 +1,61 @@
-# VR-Magnifier 
-## (The PDF file included in this repository and images provided in this readme do not reflect the current state of the project. Currently, the project is undergoing a complete re-implementation based on the feedback received.)
-# [Release](https://github.com/Cem-Kaya/VR-Magnifier/releases)
+# MagniVR
 
-[![Yoututbe video](https://img.youtube.com/vi/-q2E5zONnLM/0.jpg)](https://www.youtube.com/watch?v=-q2E5zONnLM)
+**Authors:** [Cem Kaya](https://cem-kaya.github.io/), [Baha Mert Ersoy](https://www.linkedin.com/in/baha-mert-ersoy-546882328), [Murat Karaca](https://www.linkedin.com/in/murat-karaca-10b5911b1/?originalSubdomain=nl)  
+**Extended Abstract Presentation:** [IECHCI 2023](https://www.researchgate.net/profile/Turgay-Altindag-2/publication/377160381_International_Eastern_Conference_on_Human_Computer_Interaction_2023_Proceedings_and_Full_Text_Book/links/6597e5822468df72d3fd0324/International-Eastern-Conference-on-Human-Computer-Interaction-2023-Proceedings-and-Full-Text-Book.pdf#page=159)  
+**Full Paper Publication:** [18th International Conference on Universal Access in Human-Computer Interaction (UAHCI 2024) , part of HCII 2024 ](https://link.springer.com/chapter/10.1007/978-3-031-60881-0_20), Washington, DC. 
 
-# Abstract
-The field of Virtual Reality is a rapidly growing and increasingly popular medium,
-however, the accessibility standards for individuals with low vision in VR have not yet been
-fully implemented, leaving a significant gap in the provision of accessible VR experiences for
-individuals with low vision. The objective of this study was to investigate the effectiveness
-and efficiency of accessibility tools for people with low vision in virtual reality by leveraging
-the 3D modality of VR. Six volunteers participated in the study, three of whom had low
-vision. The study utilised a virtual environment created in Unity, in which participants were
-tasked with completing 9 tests in 3 or 4 different ways depending on their vision: once
-without the use of any accessibility tools, and three more times using different accessibility
-tools. The study used 3 different types of accessibility tools: a right-hand magnifier, a
-left-hand magnifier, and a SeeingVR magnifier. The results of the study indicate that the
-magnifier tools were a huge help for the participants with low vision in completing the tasks,
-and reduced the cognitive load during the execution of the task. A comprehensive report is available
-in the repository in the form of a PDF file.
+**Award:** Received the "Universal Design in Information Technology" award at the [INTERNATIONAL BARRIER-FREE INFORMATION TECHNOLOGY CONGRESS 2024 (BILVET)](#link-to-award) at Manisa Celal Bayar University.
 
-# Images 
-## Left-hand Magnifier
-![image](https://user-images.githubusercontent.com/84244352/230127179-817bccd2-2cd4-436c-ab85-b646a99ace26.png)
-## Right-hand Magnifier
-![image](https://user-images.githubusercontent.com/84244352/230127493-a34efcc6-aef9-4dc5-b3b4-ce0de72c511f.png)
-## Re-implementation of SeeingVR
-![image](https://user-images.githubusercontent.com/84244352/230127695-c677294e-01cb-473c-a248-84ef5421bd18.png)
+---
 
-# Data
-## Duration of Task Completion by Each Participant
-![image](https://user-images.githubusercontent.com/84244352/230128745-cbff2ad7-be48-45da-a437-68fcf973fba4.png)
-![image](https://user-images.githubusercontent.com/84244352/230128836-5372e41e-4774-40ef-8657-08ee4d91e12a.png)
-![image](https://user-images.githubusercontent.com/84244352/230128895-179c66a5-e1aa-4b37-8991-93c0053c0437.png)
+## Overview
 
-# Developers
-## Cem Kaya
-## Baha Mert Ersoy
-## Murat Karaca
+**MagniVR** is an open-source Virtual Reality (VR) Unity SDK designed to improve accessibility for individuals with low vision. The tool simplifies the integration of accessibility features into existing VR applications, enhancing developer experience (DX) and end-user inclusivity.
+
+- **Features:**
+  - Fully open-source and extensible.
+  - Seamless integration into Unity-based VR applications.
+  - Specifically designed to address the needs of low-vision users.
+  - Customizable settings to adapt to various VR applications.
+
+---
+
+## User Studies
+
+A two-phase user study was conducted with 18 participants to evaluate the tool's effectiveness:
+
+1. **Phase 1:** Initial usability testing to refine features.
+2. **Phase 2:** Comprehensive evaluation in live VR scenarios.
+
+Participants provided **positive feedback**, highlighting MagniVR’s potential to significantly enhance VR inclusivity for visually impaired users.
+
+---
+
+## Releases
+
+- **Latest Release:** [MagniVR v1.0](https://github.com/Cem-Kaya/MagniVR/releases)  
+  Features included in this release:
+  - Adaptive UI elements.
+  - Magnification tools.
+
+
+---
+
+## Installation & Usage
+
+### Prerequisites
+- Unity 2021.3 or later.
+- Compatible VR headset (e.g.,Meta quest, Oculus, HTC Vive).
+
+### Installation
+1. Clone the repository:  
+   ```bash
+   git clone  https://github.com/Cem-Kaya/MagniVR
+    ```
+### Usage
+- Drag and drop the MagniVR prefab into your scene.
+- Link the OpenXR elements to the MagniVR manager prefab using the editor.
+- Customize the settings in the Inspector window.
+- For detailed instructions, look at this [video](https://youtu.be/-q2E5zONnLM). 
+
+   
