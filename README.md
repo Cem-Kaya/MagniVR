@@ -1,10 +1,13 @@
 # MagniVR
 
 **Authors:** [Cem Kaya](https://cem-kaya.github.io/), [Baha Mert Ersoy](https://www.linkedin.com/in/baha-mert-ersoy-546882328), [Murat Karaca](https://www.linkedin.com/in/murat-karaca-10b5911b1/?originalSubdomain=nl)  
-**Extended Abstract Presentation:** [IECHCI 2023](https://www.researchgate.net/profile/Turgay-Altindag-2/publication/377160381_International_Eastern_Conference_on_Human_Computer_Interaction_2023_Proceedings_and_Full_Text_Book/links/6597e5822468df72d3fd0324/International-Eastern-Conference-on-Human-Computer-Interaction-2023-Proceedings-and-Full-Text-Book.pdf#page=159)  
+**Extended Abstract Presentation:** [IECHCI 2023]( https://www.researchgate.net/profile/Turgay-Altindag-2/publication/377160381_International_Eastern_Conference_on_Human_Computer_Interaction_2023_Proceedings_and_Full_Text_Book/links/6597e5822468df72d3fd0324/International-Eastern-Conference-on-Human-Computer-Interaction-2023-Proceedings-and-Full-Text-Book.pdf#page=159 )  
 **Full Paper Publication:** [18th International Conference on Universal Access in Human-Computer Interaction (UAHCI 2024) , part of HCII 2024 ](https://link.springer.com/chapter/10.1007/978-3-031-60881-0_20), Washington, DC. 
 
 **Award:** Received the "Universal Design in Information Technology" award at the [INTERNATIONAL BARRIER-FREE INFORMATION TECHNOLOGY CONGRESS 2024 (BILVET)](#link-to-award) at Manisa Celal Bayar University.
+
+![Magnivr_gif](https://github.com/user-attachments/assets/d3ffef2b-90ab-4fcb-a81c-d55fea7f319b)
+
 
 ---
 
