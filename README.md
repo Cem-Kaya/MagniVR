@@ -33,7 +33,7 @@ A two-phase user study was conducted with 18 participants to evaluate the tool's
 1. **Phase 1:** Initial usability testing to refine features.
 2. **Phase 2:** Comprehensive evaluation in live VR scenarios.
 
-Participants provided **positive feedback**, highlighting MagniVR’s potential to significantly enhance VR inclusivity for visually impaired users.
+Participants provided **overall positive feedback**, highlighting MagniVR’s potential to significantly enhance VR inclusivity for visually impaired users.
 
 ---
 
